@@ -25,13 +25,16 @@ Tested Arch:
 
 Tested OS:
   Redhat Enterprise Linux 5.4
+  
   Ubuntu Desktop 10.10
 
 1.2 Building essentials
 =======================
 
 GNU make version 3.81 or higher.
+
 PIN binary instrumentation tool, latest version.
+
 Google protobuf tool, version 2.4.1 or higher.
 
 1.3 Target programs
