@@ -46,10 +46,8 @@ conditions:
   2) Preferably use -fno-omit-frame-pointer when compile
   3) Preferably use pthread library for threading and synchronization
 
-
-#######################################
-# 2. How to build the package         #
-#######################################
+1.4 How to build the package
+===================
 
 1) Download and install
    a) the latest PIN binary instrumentation tool
