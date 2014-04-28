@@ -15,7 +15,7 @@ to strict software quality assurance process. Pinso exploits
 the above observation to isolate the root causes of a failed
 execution.
 
-*Pinso is partly finished when author visited at University of Michigan, ACAL lab, work with Jie Ye (Thank you Jie). 
+*Pinso was partly finished when the author was at University of Michigan ACAL lab, and worked with Jie Ye (Thank you Jie). 
 
 1.1 OS and kernel
 =================
